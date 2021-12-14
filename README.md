@@ -1,11 +1,7 @@
 # MyFavoriteRecipe
 
-Favorite recipes
-
-Explains how to make it
-Which contry it is most popular in.
-Also upload a image
-
+My Favorite Recipe is Chicken Briyani
+It is most popular in South India and Arabia
 
 https://tse2.mm.bing.net/th/id/OIP.NQtfb5gvxh5Qe_UVF581mgHaEK?w=331&h=186&c=7&r=0&o=5&dpr=1.35&pid=1.7
 
